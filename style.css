@@ -1,0 +1,14 @@
+/*body{background-color: gray;}*/
+/*body{background-image: url(./image/20220925_150246\ \(2\).jpg);
+background-position: ;
+background-repeat: no-repeat;
+background-size: auto;}*/
+body{background-image: url(./image/emmy\ jeey.jpeg);
+background: position 100%;
+background-size: 70%;
+background-repeat: no-repeat;}
+h1{color: black;}
+h4{background-color: whitesmoke;
+border: 15px solid whitesmoke;
+width: 20%;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
